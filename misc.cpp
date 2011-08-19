@@ -8,4 +8,9 @@ int main(int argc, char *argv[]) {
 
 	// Adding a new line
 	cout << "Bye bye now :)" << endl;
+	
+	// Another line (18 Aug 2011/Thr)
+	cout << "Yet another line now!" << endl;
+	
+	return 0;
 }
