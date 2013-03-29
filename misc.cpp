@@ -16,7 +16,15 @@ int main(int argc, char *argv[]) {
         cout << "i-> " << i << endl;
     }
     
+<<<<<<< HEAD
     // I am adding this from Linux box
+=======
+<<<<<<< HEAD
+    // This was added remotely!
+=======
+    // I am adding this from Linux box
+>>>>>>> comment added
+>>>>>>> ot-branch1
     cout << "Have a nice day peeps..." << endl;
 
     // Test by OT    
