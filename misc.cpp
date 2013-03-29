@@ -16,6 +16,8 @@ int main(int argc, char *argv[]) {
         cout << "i-> " << i << endl;
     }
     
+	cout << "Have a nice day peeps..." << endl;
+
     // Test by OT    
     return 0;
 }
