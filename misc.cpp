@@ -16,7 +16,11 @@ int main(int argc, char *argv[]) {
         cout << "i-> " << i << endl;
     }
     
+<<<<<<< HEAD
     // This was added remotely!
+=======
+    // I am adding this from Linux box
+>>>>>>> comment added
     cout << "Have a nice day peeps..." << endl;
 
     // Test by OT    
