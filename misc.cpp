@@ -16,7 +16,6 @@ int main(int argc, char *argv[]) {
         cout << "i-> " << i << endl;
     }
     
-    // Test by OT
-    
+    // Test by OT    
 	return 0;
 }
